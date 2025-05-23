@@ -1,0 +1,3 @@
+x = ['gina1','gina2','gina3']# my list
+result= ','.join(x)
+print(result)
