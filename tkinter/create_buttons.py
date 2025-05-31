@@ -16,4 +16,3 @@ b2.pack(side= LEFT)
 b3.pack(side = RIGHT)
 
 root.mainloop()
-
