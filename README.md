@@ -40,9 +40,11 @@ Python-Exercises/
 │
 └── README.md                # This file — you’re here! 📖
 ```
-```## Environment Setup 🛠️
+
+## Environment Setup 🛠️
   Make sure you have Python 3.8 or higher.
   To get all the goodies, run:
+```
   bash
   pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels jupyter
 ```
