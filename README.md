@@ -4,7 +4,7 @@
 Welcome to my personal data science playground! Here, I’m sharpening my skills by diving into key topics like data processing, cleaning, visualization, stats, and machine learning. The plan? Practice every single day 💪, learn step by step, and turn complex data puzzles into fun challenges.
 
 ## Directory Structure 🗂️
-plaintext
+```plaintext
 Python-Exercises/
 │
 ├── pandas-practice/          # Pandas magic for cleaning & handling data 🐼
@@ -39,13 +39,13 @@ Python-Exercises/
 ├── projects/                # Mini-projects that tie it all together 🎯
 │
 └── README.md                # This file — you’re here! 📖
-
-## Environment Setup 🛠️
+```
+```## Environment Setup 🛠️
   Make sure you have Python 3.8 or higher.
   To get all the goodies, run:
   bash
   pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels jupyter
-
+```
 
 ## How to Use This Repository 🎮
  1. Pick a topic and difficulty
