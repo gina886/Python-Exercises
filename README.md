@@ -5,43 +5,51 @@ Welcome to my personal data science playground! Here, I’m sharpening my skills
 
 ## Directory Structure 🗂️
 ```plaintext
-Python-Exercises/
-│
-├── pandas-practice/          # Pandas magic for cleaning & handling data 🐼
-│   ├── basic/                # Getting comfy with DataFrames 📄
-│   ├── intermediate/         # Groupby tricks & time series 🕰️
-│   └── advanced/             # Complex stuff & performance hacks ⚡
-│
-├── numpy-practice/           # NumPy power for arrays & math 🧮
-│   ├── basic/                # Array basics & broadcasting 🔊
-│   ├── intermediate/         # Matrix moves & computations ➗
-│   └── advanced/             # Custom types & speed boosts 🚀
-│
-├── matplotlib-practice/      # Painting pictures with Matplotlib 🎨
-│   ├── basic/                # Simple line & scatter plots 📈
-│   ├── intermediate/         # Fancy layouts & multiple plots 🖼️
-│   └── advanced/             # Animations & advanced visuals 🎥
-│
-├── seaborn-practice/         # Beautiful stats visuals with Seaborn 🌊
-│   ├── basic/                # Boxplots, bars & basics 📊
-│   ├── intermediate/         # Mix & match relationship plots 🔄
-│   └── advanced/             # Multivariate & custom styles 🎨
-│
-├── scikit-learn-practice/   # Machine learning fun with Scikit-learn 🤖
-│   ├── basic/                # Basic regression & classification 📉📈
-│   ├── intermediate/         # Model tuning & pipelines 🔧
-│   └── advanced/             # Ensembles, reduction & clustering 🧩
-│
-├── statistics/              # Stats fundamentals & hypothesis testing 🎲
-│
-├── data-cleaning/           # Data tidying and prep 🧹
-│
-├── projects/                # Mini-projects that tie it all together 🎯
-│
-└── README.md                # This file — you’re here! 📖
+# Python-Exercises
+
+🌟 pandas-practice🐼
+— Pandas magic for cleaning & handling data 
+- Getting comfy with DataFrames 📄  
+- Groupby tricks & time series 🕰️  
+- Complex stuff & performance hacks ⚡  
+
+🌟 numpy-practice🧮
+— NumPy power for arrays & math 
+- Array basics & broadcasting 🔊  
+- Matrix moves & computations ➗  
+- Custom types & speed boosts 🚀  
+
+🌟 matplotlib-practice📈 
+— Painting pictures with Matplotlib 
+- Simple line & scatter plots  🎨
+- Fancy layouts & multiple plots 🖼️  
+- Animations & advanced visuals 🎥  
+
+🌟 seaborn-practice🌊
+— Beautiful stats visuals with Seaborn 
+- Boxplots, bars & basics 📊  
+- Mix & match relationship plots 🔄  
+- Multivariate & custom styles 🎨  
+
+🌟 scikit-learn-practice🤖
+— Machine learning fun with Scikit-learn 
+- Basic regression & classification 📉📈  
+- Model tuning & pipelines 🔧  
+- Ensembles, reduction & clustering 🧩  
+
+🌟 statistics
+— Stats fundamentals & hypothesis testing 🎲
+
+🌟 data-cleaning
+— Data tidying and prep 🧹
+
+🌟 projects
+— Mini-projects that tie it all together 🎯
+
+
 ```
 
-## Environment Setup 🛠️
+🛠️Environment Setup 🛠️
   Make sure you have Python 3.8 or higher.
   To get all the goodies, run:
 ```
@@ -49,7 +57,7 @@ Python-Exercises/
   pip install numpy pandas matplotlib seaborn scikit-learn scipy statsmodels jupyter
 ```
 
-## How to Use This Repository 🎮
+🎮How to Use This Repository 🎮
  1. Pick a topic and difficulty
 Choose what you want to practice (Pandas, NumPy, etc.) and your level (basic, intermediate, advanced).
 
